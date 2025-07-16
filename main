@@ -1,0 +1,3 @@
+cd card02
+git commit --allow-empty -m "Trigger Pages rebuild"
+git push
